@@ -132,6 +132,20 @@ This project demonstrates practical IT support and computer hardware evaluation 
 - Completed solution
 - Laptop comparison analysis
 
+## 📚 Computer Basics: Additional Resources
+
+- [PCPartPicker](https://pcpartpicker.com/)  
+  Helps students choose compatible computer parts and even build custom PCs.
+
+- [Crucial System Advisor](https://www.crucial.com/)  
+  Useful for identifying compatible RAM and SSD upgrade options for laptops and desktops.
+
+- [RAID Calculator](https://www.raid-calculator.com/)  
+  Helps explain RAID levels, storage redundancy, and usable storage calculations.
+
+- [UserBenchmark](https://www.userbenchmark.com/)  
+  Useful for comparing CPU, GPU, RAM, and SSD performance in real-time.
+
 # 👨‍💻 Author
 
 **Nil Kamal Saha**
