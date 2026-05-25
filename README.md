@@ -126,6 +126,12 @@ This project demonstrates practical IT support and computer hardware evaluation 
 
 ---
 
+## 📂 Project Files
+
+- Assignment document
+- Completed solution
+- Laptop comparison analysis
+
 # 👨‍💻 Author
 
 **Nil Kamal Saha**
