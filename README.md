@@ -56,10 +56,10 @@ John requires a laptop that offers:
 
 # 🔗 Product Links
 
-* Lenovo ThinkPad E16 Gen 2
-* Asus Vivobook S 15 OLED
-* Lenovo ThinkPad P15 Gen 2
-* Dell Precision 7550 (Refurbished)
+*  [Lenovo ThinkPad E16 Gen 2](https://www.computeruniverse.net/de/p/1CA0-08E?APID=718&utm_channel=sea&utm_source=google-pla&utm_campaign=cpc_de_top_produktkategorien&gad_source=1&gad_campaignid=21879704295&gclid=Cj0KCQiA2bTNBhDjARIsAK89wlHiATRoVL5LHwShHFMGkkqyiL7hdqB0NQeZAkIbObT1tl5x8B5IDuIaAuBfEALw_wcB)
+*  [Asus Vivobook S 15 OLEDv](https://www.amazon.de/-/en/ASUS-Vivobook-Laptop-120Hz-0-2ms/dp/B086ZTGNB5/ref=sr_1_32?dib=eyJ2IjoiMSJ9.Wre_GVUS9-uw3be4DlmrzfqD7zeu40A_GdHlONCULA7KNk25_PG9Yciqqbeo2xBrxnNboOXFav83Y9UciurQGml2I00AxAcZafxdQErdDUir8AeaOKq5dHczM5z3kHJH.erq54WUes1CV32A09B2xMiejEfuR2QfjOATkBK2YQcs&dib_tag=se&qid=1772991111&refinements=p_36%3A9708303031%2Cp_n_g-1003119721111%3A27399052031%2Cp_n_g-101016745300111%3A207753661031%7C207753664031&rnid=207753660031&s=computers&sr=1-32&xpid=OBgTFSt3dJ2ST&th=1)
+*  [Lenovo ThinkPad P15 Gen 2v](https://www.amazon.de/-/en/Lenovo-ThinkPad-P15-Gen-Refurbished/dp/B0FHJ8HK2P/ref=sr_1_30?dib=eyJ2IjoiMSJ9.1GQQXylHPhp8mDRGDukF7-zClD-bTcis0WULFf0ECdiCJB5K8oEsl9STe5LMn7xO-x_jATmAFY-48M76cQjnBx423d47H7Cdj-dLXK34VXn_MU1aDRSRVDLGPFjqjAUmcXcD1zBnUH3tGmpoCZQ1MgZ_6DmfB2HP9oiW90j9eTUsOFEuIV56MlYenst6g3rOXB1nSkrGxn16n2NZEewalWWAOFiaD6MXFxisNMHaAiI.XIYbbAYaEm235AZDprmYsrhjNTrtK64vhkSGtna5C5Y&dib_tag=se&qid=1772991111&refinements=p_36%3A9708303031%2Cp_n_g-1003119721111%3A27399052031%2Cp_n_g-101016745300111%3A207753661031%7C207753664031&rnid=207753660031&s=computers&sr=1-30&xpid=OBgTFSt3dJ2ST&th=1)
+*  [Dell Precision 7550 (Refurbished)](https://www.amazon.de/Dell-Precision-i7-10750H-Antivirus-Refurbished/dp/B0G4D3LJTG/ref=sr_1_2_sspa?dib=eyJ2IjoiMSJ9.W96GilsEKlUODWzxI6HcXOzNjTW3r8AYTN6Phqaz5VH9Q5D4qeKkZiUlBGwfdnJg6mcS93iOnxfYWI8l6M-KJ87qavFQLd4tED8SUMV-WTTqKQ5mm7HgFAYRiL4fi-jOMyMgHbZCUcJmv5nSmAwMUNrCtC_dR3ANTetwniVkbevuJ2ZKtXvZxmkRh1P0JuqPlAmO8YPIUA9SBjE8RGRhbJP00Im7xsWBjdnOk3vkbMCWJ5mz3JE6r61W98vyWLdq7T1tM55HgqxRt6mGTcblzSRo8dfYoGUBhLOWSz_boGM.EtZFLcL9rqb-YjHo5UQ1nKg5tMmIkrsvuh6Vj8THZwo&dib_tag=se&qid=1772990979&refinements=p_36%3A9708303031%2Cp_n_g-1003119721111%3A27399052031%2Cp_n_g-101016745300111%3A207753661031%7C207753664031&rnid=207753660031&s=computers&sr=1-2-spons&xpid=OBgTFSt3dJ2ST&aref=sEVyqnhcqJ&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGZfYnJvd3Nl&psc=1)
 
 ---
 
